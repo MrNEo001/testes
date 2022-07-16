@@ -5,11 +5,13 @@ programa
 	{
 		real n1, n2
 		inteiro resultado, op
+		escreva("__________________________CALCULADORA__________________________", "\n")
 
-			escreva("digite seu primeiro numero: ")
+
+			escreva("Digite seu primeiro número: ")
 			leia(n1)
 			
-			escreva("digite seu segundo numero: ")
+			escreva("Digite seu segundo número: ")
 			leia(n2)
 
 			
@@ -41,7 +43,7 @@ escolha (op)
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 265; 
+ * @POSICAO-CURSOR = 233; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
